@@ -1,10 +1,10 @@
-#virtual environment
-.venv/
-
+# Virtual environment
 .env
+.venv/
+.vscode/
 
-#mac
+# Mac
 .DS_Store
 
-#python
+# Python
 *.pyc
